@@ -14,7 +14,7 @@ from string import ascii_lowercase, ascii_uppercase, digits, punctuation
 # Construct URL
 IP = "35.196.135.216"
 PORT = "5001"
-ROOT_PATH = "78440a4993"
+ROOT_PATH = "a6f0a38229"
 LOGIN_PAGE = "http://%s:%s/%s/login" % (IP, PORT, ROOT_PATH)
 
 
